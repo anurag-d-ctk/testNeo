@@ -1,0 +1,3 @@
+import{j as t}from"./jsx-runtime-6eef64cc.js";import{M as n}from"./index-4007f2d2.js";import{u as i}from"./index-dc1d5b46.js";import"./index-c013ead5.js";import"./_commonjsHelpers-725317a4.js";import"./iframe-9f5f8b36.js";import"../sb-preview/runtime.js";import"./extends-c174ebc0.js";import"./index-169ee69c.js";import"./index-d37d4223.js";import"./index-7356f5c8.js";import"./index-356e4a49.js";function e(o){return t.jsxs(t.Fragment,{children:[t.jsx(n,{title:"Clootrack Neo"}),`
+`,t.jsx("div",{children:"### Clootrack Neo Storybook"})]})}function C(o={}){const{wrapper:r}=Object.assign({},i(),o.components);return r?t.jsx(r,Object.assign({},o,{children:t.jsx(e,o)})):e()}export{C as default};
+//# sourceMappingURL=Configure-3a720fc1.js.map
