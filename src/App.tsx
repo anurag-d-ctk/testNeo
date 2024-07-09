@@ -1,4 +1,4 @@
-import { Box, Heading } from "@chakra-ui/react";
+import { Box, Heading, Text } from "@chakra-ui/react";
 import UserPage from "./features/users/Users";
 
 function App() {
@@ -6,6 +6,7 @@ function App() {
     <>
       <Box p="5" shadow={"md"}>
         <Heading size="md">Neo App</Heading>
+        <Text fontSize={"medium"}>A POC of Neo APP</Text>
       </Box>
       <UserPage />
     </>
